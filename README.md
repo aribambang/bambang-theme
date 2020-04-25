@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "bambang-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Bambang Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img src="https://raw.githubusercontent.com/aribambang/bambang-theme/master/assets/ss.png" alt="Preview">
 
-**Enjoy!**
+## Install
+
+This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme):
+
+1. On VS Code go to **View -> Command Palette**
+2. Then enter **Install Extension**
+3. Write **Bambang Theme**
+4. Select it or press Enter to install
+
+## Team
+
+This theme is maintained by the following person(s)
+
+| [![aribambang](https://avatars3.githubusercontent.com/u/10102342?s=460&u=477d0e5f4d37af385b7c1f69600f811a76673c52&v=4)](https://github.com/aribambang) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [aribambang](https://github.com/aribambang)                                                                                                            |
+
+## License
+
+[MIT License](./License) - Bambang Theme
