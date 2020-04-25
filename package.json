@@ -1,0 +1,21 @@
+{
+    "name": "bambang-theme",
+    "displayName": "Bambang Theme",
+    "description": "Bambang Theme created by Ari Bambang Kurniawan",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bambang Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bambang Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
