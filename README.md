@@ -6,7 +6,7 @@
 
 ## Install
 
-This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=felipe-mendes.slack-theme):
+This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=aribambang.bambang-theme):
 
 1. On VS Code go to **View -> Command Palette**
 2. Then enter **Install Extension**
