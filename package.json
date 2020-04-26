@@ -3,7 +3,7 @@
   "publisher": "aribambang",
   "displayName": "Bambang Theme",
   "description": "Bambang Theme created by Ari Bambang Kurniawan",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.44.0"
   },

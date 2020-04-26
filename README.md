@@ -17,7 +17,7 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 
 This theme is maintained by the following person(s)
 
-| [![aribambang](https://avatars3.githubusercontent.com/u/10102342?s=460&u=477d0e5f4d37af385b7c1f69600f811a76673c52&v=4)](https://github.com/aribambang) |
+| [![aribambang](https://avatars3.githubusercontent.com/u/10102342?s=100&u=100d0e5f4d37af385b7c1f69600f811a76673c52&v=4)](https://github.com/aribambang) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [aribambang](https://github.com/aribambang)                                                                                                            |
 
